@@ -15,9 +15,13 @@ Analyzing vast insurance data often poses challenges in extracting actionable in
 
 🎇 Report Layout: 
 This report is segregated into 4 different pages to offer a holistic view of insurance performance.
+
 ➡ Home 
+
 ➡ General View
+
 ➡ Sales Mode Analysis 
+
 ➡ Age Group Analysis
 
 🎇 Interactivity: Explore data dynamically using filters, slicers, and drill-down features to tailor your analysis.
@@ -29,11 +33,18 @@ Link of Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNzAyMjc2MDgtN2M4Y
 Link of LinkedIn Presentation: https://www.linkedin.com/posts/sonia-aggarwal_codebasicsvirtualinternship-dataanalysis-activity-7133690251213946881-qexy?utm_source=share&utm_medium=member_desktop
 
 🛠️ Tools Used In This Project:
+
 ➡ Power BI Desktop  for Transformation and Visualisation of data
+
 ➡ Power BI Services for Sharing Visualisation Reports
+
 ➡ PowerPoint for Presentation
+
 ➡ Zoom for Video Recording
+
 ➡ Microsoft Clipchamp for Video Editing
+
 ➡ Canva for Thumbnail Creation
+
 
 If you're interested in discussing more about this project, feel free to reach out! Let's connect and grow together. 📚💡
